@@ -37,8 +37,7 @@ Step-4: Create a resource group
 
        
        az group create --name cpAZgroup --location eastus
-
-       ​
+​
 
 Step-5: Create a AKS cluster
 
