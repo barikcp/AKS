@@ -2,7 +2,7 @@
 AKS
 
 
-Step-1: Create a VM in Azure and connect it. ​
+Step-1: Create a VM in Azure Console and connect it. ​
 
 ​
 
